@@ -1,0 +1,28 @@
+{
+  "name": "University Assistant API",
+  "description": "An AI-powered assistant for university information",
+  "keywords": ["fastapi", "python", "chatbot", "university", "ai"],
+  "env": {
+    "XAI_API_KEY": {
+      "description": "Your X.AI API key",
+      "required": true
+    },
+    "XAI_BASE_URL": {
+      "description": "X.AI API base URL",
+      "value": "https://api.x.ai/v1"
+    },
+    "APP_NAME": {
+      "description": "Application name",
+      "value": "University Assistant API"
+    },
+    "APP_VERSION": {
+      "description": "Application version",
+      "value": "1.0.0"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
