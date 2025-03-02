@@ -1,0 +1,12 @@
+{
+  "eligibility": "Students scoring below 80% can apply",
+  "application_process": [
+    "Log in to the student portal",
+    "Select 'Exam Services'",
+    "Choose 'Paper Recheck'",
+    "Submit application with reason",
+    "Pay rechecking fee",
+    "Receive updated results within 10 days"
+  ],
+  "fee": "$20 per subject"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell & Peter Norvig",
+    "ISBN": "978-0134610993"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "ISBN": "978-0132350884"
+  },
+  {
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "ISBN": "978-0078022159"
+  }
+]

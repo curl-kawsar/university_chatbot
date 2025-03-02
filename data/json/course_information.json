@@ -1,0 +1,23 @@
+[
+    {
+        "course_code": "CSE101",
+        "course_name": "Introduction to Programming",
+        "credits": 3,
+        "instructor": "Dr. John Doe",
+        "schedule": "Monday & Wednesday, 10:00 AM - 11:30 AM"
+    },
+    {
+        "course_code": "CSE202",
+        "course_name": "Data Structures",
+        "credits": 3,
+        "instructor": "Dr. Jane Smith",
+        "schedule": "Tuesday & Thursday, 2:00 PM - 3:30 PM"
+    },
+    {
+        "course_code": "CSE302",
+        "course_name": "Algoritm Structures",
+        "credits": 3,
+        "instructor": "Dr. Hilani Smith",
+        "schedule": "Tuesday & Thursday, 2:00 PM - 3:30 PM"
+    }
+]

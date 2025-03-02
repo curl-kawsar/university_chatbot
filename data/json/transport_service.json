@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "route_name": "Route 1",
+      "stops": ["Stop A", "Stop B", "Campus Entrance"],
+      "timing": "7:30 AM, 5:00 PM"
+    },
+    {
+      "route_name": "Route 2",
+      "stops": ["Stop X", "Stop Y", "Campus Entrance"],
+      "timing": "8:00 AM, 6:00 PM"
+    }
+  ],
+  "contact": "+1122334455"
+}
